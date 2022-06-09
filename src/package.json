@@ -1,0 +1,14 @@
+{
+  "name": "react-image-lightbox-sandbox",
+  "version": "1.0.0",
+  "description": "Use this example to play around with react-image-lightbox",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "final-form": "4.20.7",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-final-form": "6.5.9",
+    "react-image-lightbox": "5.0.0"
+  }
+}
